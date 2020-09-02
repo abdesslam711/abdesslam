@@ -1,0 +1,36 @@
+body
+{
+	padding-top: 40px;
+}
+label
+{
+	padding: 10px 10px 10px 10px;
+	width: 500px;
+	
+
+}
+input
+{
+	padding: 10px 10px 10px 10px;
+	border: 2px solid red;
+}
+textarea
+{
+	width: 500px;
+	height: 300px;
+	border: 2px solid red;
+}
+#title
+{
+	width: 500px;
+	border: 2px solid red;
+}
+#author
+{
+	width: 500px;
+	border: 2px solid red;
+}
+#submit
+{
+	background-color: green;
+}
